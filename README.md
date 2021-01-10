@@ -17,14 +17,15 @@ The **dotenv** module is needed to store the configuration for the database (ex.
 
 2. Then, you need to open __phpadmin__ and  import the database __crud_app.sql__.
 
-3. Create an new user (username & password) (_or use someone that already exists_).
+3. Create an new user (username & password) (_or use someone that already exists_). If you want to use my .env file you have to put as username "__cruduser__" and as password "__crud123__".
 
 ![GitHub Logo](/images/user.png)
 
 4. Create the .env file by importing the following: <br />
 PORT=5000 <br />
-USER=__cruduser__ (_or the username tha you add on step 3_) <br />
-PASSWORD=__crud123__ (_or the password that you add on step 3_) <br />
+USER=__cruduser__ (_or the username that you added on step 3_) <br />
+PASSWORD=__crud123__ (_or the password that you added on step 3_) <br />
 DATABASE=crud_app <br />
-DB_PORT=__3325__ (_or the port that your server is running_) <br />
+DB_PORT=__3325__ (_or the port that your server is running on_) <br />
 HOST=localhost <br />
+
