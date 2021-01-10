@@ -9,3 +9,5 @@ To Run the crud app you need to install the following packages on server folder:
 The **dotenv** module is needed to store the configuration for the database (ex. username,password,port).
 
 # Setup of the database:
+
+I used the XAMPP 
