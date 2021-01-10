@@ -10,4 +10,5 @@ The **dotenv** module is needed to store the configuration for the database (ex.
 
 # Setup of the database:
 
-I used the XAMPP 
+I used the XAMPP:
+![GitHub Logo](/images/xampp.png)
