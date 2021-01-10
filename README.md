@@ -17,7 +17,7 @@ The **dotenv** module is needed to store the configuration for the database (ex.
 
 2. Then, you need to open __phpadmin__ and  import the database __crud_app.sql__.
 
-3. Create an new user (username & password) (_or use someone that already exists_). <br />
+3. Create an new user (username & password) on phpadmin (_or use someone that already exists_). <br />
 
 ![GitHub Logo](/images/user.png)
 
