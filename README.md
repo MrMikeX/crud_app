@@ -22,16 +22,15 @@ The **dotenv** module is needed to store the configuration for the database (ex.
 
 ![GitHub Logo](/images/user.png)
 
-4. If you want to create your own .env file, you need to import the following: <br />
+4. Create the .env file in the server folder by importing the following: <br />
 
 PORT=5000 <br />
-USER=__cruduser__ (_or the username that you added on step 3_) <br />
-PASSWORD=__crud123__ (_or the password that you added on step 3_) <br />
+USER=__yourname__ (_the username that you added on step 3_) <br />
+PASSWORD=__yourpass__ (_the password that you added on step 3_) <br />
 DATABASE=crud_app <br />
 DB_PORT=__3325__ (_or the port that your server is running on_) <br />
 HOST=localhost <br />
 
-**NOTE:** You can modify the file that already exists. It can be opened with a notepad.
 
 # Run the code
 
