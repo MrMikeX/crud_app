@@ -5,3 +5,7 @@ To Run the crud app you need to install the following packages on server folder:
 2. dotenv (**npm install dotenv**)  
 3. express (**npm install express --save**) 
 4. mysql (**npm install mysql**)
+
+The **dotenv** module is needed to store the configuration for the database (ex. username,password,port).
+
+# Setup of the database:
