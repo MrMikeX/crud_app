@@ -30,4 +30,4 @@ DATABASE=crud_app <br />
 DB_PORT=__3325__ (_or the port that your server is running on_) <br />
 HOST=localhost <br />
 
-NOTE: You can modify the file that already exists. It can be opened with a notepad.
+**NOTE:** You can modify the file that already exists. It can be opened with a notepad.
