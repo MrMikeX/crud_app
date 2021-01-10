@@ -8,8 +8,10 @@ To Run the crud app you need to install the following packages on server folder:
 
 The **dotenv** module is needed to store the configuration for the database (ex. username,password,port).
 
-# Setup of the database:
+# Setup the Database:
 
-I used the XAMPP:
+For my setup I used the XAMPP software. All you need to do is to run __Apache__ and  __MySQL__ module:
 
 ![GitHub Logo](/images/xampp.PNG)
+
+Then, you need to open __phpadmin__ and  import the database __crud_app.sql__.
