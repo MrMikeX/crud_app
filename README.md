@@ -35,3 +35,8 @@ HOST=localhost <br />
 
 # Run the code
 
+After you import the project into Visual Studio Code and installed the modules, you can install nodemov or the "Live Server" extension, which they update your server in real time. Create a terminal on server folder and run the crud app by typing "__node app__" or "__nodemov app__". If you use node without auto-updating you need to press right click and activate the Live Server Extension on VS Code.
+
+
+
+
