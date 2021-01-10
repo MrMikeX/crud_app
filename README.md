@@ -19,4 +19,4 @@ The **dotenv** module is needed to store the configuration for the database (ex.
 
 3. Create an new local user (username & password)
 
-![GitHub Logo](/images/user.PNG)
+![GitHub Logo](/images/user.png)
