@@ -3,7 +3,7 @@ I made a simple CRUD app in Visual Studio Code based on Nodejs, Express and MySQ
 To Run the crud app you need to install the following packages on server folder:
 1. cors (**npm install cors**) 
 2. dotenv (**npm install dotenv**)  
-3. express (**npm install express --save**) 
+3. express (**npm install express**) 
 4. mysql (**npm install mysql**)
 
 The **dotenv** module is needed to store the configuration for the database (ex. username,password,port).
